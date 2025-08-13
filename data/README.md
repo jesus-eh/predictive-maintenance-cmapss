@@ -1,0 +1,3 @@
+Dataset: C-MAPSS (NASA). No incluido por tamaño. Para descargar, visita el enlace oficial. 
+Una vez descargado, coloca los archivos en data/raw/ con esta estructura:
+- data/raw/train_FD001.txt, test_FD001.txt, RUL_FD001.txt, ...
