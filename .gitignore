@@ -1,0 +1,27 @@
+# Python
+__pycache__/
+*.py[cod]
+*.so
+*.egg
+*.egg-info/
+/dist/
+/build/
+
+# env
+venv/
+ENV/
+.env
+
+# Jupyter
+.ipynb_checkpoints
+
+# Data (no subir datos RAW)
+data/raw/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# IDEs
+.vscode/
+.idea/
